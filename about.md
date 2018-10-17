@@ -5,10 +5,9 @@ title: About Human Modeling Group
 
 <div class="post">
 	<h1 class="pageTitle">About Human Modeling Group</h1>
-	<img src="{{ '/assets/img/group.png' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<img src="{{ '/assets/img/about.png' | prepend: site.baseurl }}" alt="">
+	<p class="intro">In the human modeling group, through technologies that extend human exercise and sensation, we aim to realize an excellent human mechanical system. In order to enjoy the daily life even at the age, we think that it is important to maintain the feeling that I am moving my body freely by myself, and feel a sense of feeling various things by myself. Human Modeling Group research is focused in 3 main areas: Assistive technology, haptics and interface.</p>
+	<!-- <h2>Features</h2>
 	<ul>
 		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
   		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
@@ -20,5 +19,5 @@ title: About Human Modeling Group
       <li>Estimated Reading Time for posts</li>
   		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
   		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
+  	</ul> -->
 </div>
