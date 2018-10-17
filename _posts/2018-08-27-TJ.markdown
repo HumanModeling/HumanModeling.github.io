@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Taiwan - Japan collaboration"
+date:   2018-08-27
+---
+
+<p class="intro"><span class="dropcap">T</span>aiwan University and Japan University joint in a research collaboration.</p>
+
+<div style="text-align:center"><img src="https://humanmodeling.github.io//assets/img/Taiwan/1.jpg" width="400"></div>
+
+<div style="text-align:center"><img src="https://humanmodeling.github.io//assets/img/Taiwan/2.jpg" width="400"></div>
+
+<div style="text-align:center"><img src="https://humanmodeling.github.io//assets/img/Taiwan/3.jpg" width="400"></div>
+
+<div style="text-align:center"><img src="https://humanmodeling.github.io//assets/img/Taiwan/4.jpg" width="400"></div>
+
+<div style="text-align:center"><img src="https://humanmodeling.github.io//assets/img/Taiwan/5.jpg" width="400"></div>
+
+<div style="text-align:center"><img src="https://humanmodeling.github.io//assets/img/Taiwan/6.jpg" width="400"></div>
+
+Human Modeling group members headed by Professor Kurita join in a research project workshop between Japan and Taiwan in Yilan, Taiwan. This was great opportunity for faculties and students to know each other and had fruitful discussion to start collaboration research!
