@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Human Modeling Group Site
 ---
 
 <div id="articles">
