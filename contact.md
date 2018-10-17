@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Yuichi Kurita
+title: Contact Human Modeling Group
 ---
 
 <div id="contact">
