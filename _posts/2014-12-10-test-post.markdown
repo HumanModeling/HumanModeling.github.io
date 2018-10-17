@@ -14,6 +14,6 @@ date:   2018-08-22
 
 <div style="text-align:center"><img src="https://humanmodeling.github.io//assets/img/cedec/5.jpg" width="550">
 
-<div style="text-align:center"><img src="https://humanmodeling.github.io//assets/img/cedec/6.jpg" width="350">
+<div style="text-align:center"><img src="https://humanmodeling.github.io//assets/img/cedec/6.jpg" width="400">
 
 Human Modeling team presented two projects in the las edition of [CEDEC](https://2018.cedec.cesa.or.jp/) 2018, this works are entitled has ForceHand glove: A wereable force-feedback glove with pneumatic artificial mucles (PAMs) and Force-feedback suit using pneumatic artificial muscles, both using a VR enviroment, this event is one of the biggest events of new entertainment systems in the
