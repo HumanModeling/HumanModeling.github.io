@@ -4,7 +4,7 @@ title:  "CEDEC 2018"
 date:   2018-08-22
 ---
 
-<p class="intro"><span class="dropcap">P</span>rofessor Kurita, Yusuke Kishita and Swagata Das participated in CEDEC 2018.</p>
+<p class="intro"><span class="dropcap">P</span>rofessor Kurita, Yusuke Kishishita and Swagata Das participated in CEDEC 2018.</p>
 
 <div style="text-align:center"><img src="https://humanmodeling.github.io//assets/img/cedec/1.jpg" width="400"></div>
 
